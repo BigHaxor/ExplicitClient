@@ -6,7 +6,7 @@ import java.util.Base64;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import me.explicit.module.Category;
-import me.explicit.module.Module;
+import me.explicit.module.Module
 
 public class ValueAnimals extends Module {
 
