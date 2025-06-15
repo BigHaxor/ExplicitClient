@@ -1,4 +1,4 @@
-package me.explicit.module.render
+package me.explicit.module.render;
 
 import java.awt.Color;
 import java.nio.charset.StandardCharsets;
