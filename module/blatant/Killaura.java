@@ -2,7 +2,7 @@ package me.explicit.module.blatant;
 
 import io.netty.util.internal.ThreadLocalRandom;
 import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest
+import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Base64;
